@@ -25,3 +25,8 @@ https://awesome-tips.gitbook.io/ios/qi-ta/content
 ## 书籍收集
 #### 各种程序员电子书、嵌入式等
 https://github.com/Jarvis03/Book-Doc
+
+## 聚合博客
+#### 里面有 逻辑教育 的文章
+https://muzico.gitee.io/niao/15695040714292.html
+
